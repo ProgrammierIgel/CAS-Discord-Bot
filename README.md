@@ -11,7 +11,7 @@ Step 3 is to create an Discord Bot and join to your server.
 
 [Developer Portal]("https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications")
 
-Step 4 is to replace `123` to your token.
+Step 4 is to replace `123` to your token in the BOT.py.
 
 Now create a new terminal and run:
 ````bash
