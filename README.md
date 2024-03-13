@@ -7,6 +7,8 @@ and install all as Python-Module.
 
 Step 2 is to connect your Device wit the Network and download the latest pythin version on your Handheld.
 
+Step 3 is to create an Discord Bot and join to your server.
+
 Now create a new terminal and run:
 ````bash
    import BOT
