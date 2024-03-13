@@ -9,6 +9,8 @@ class MyClient(discord.Client):
         # don't respond to ourselves
         if message.author == self.user:
             return
+        if message.clean_content.startswith("TEST"):
+            await message.channel.send("TEST")
 
 intents = discord.Intents.default()
 intents.message_content = True
